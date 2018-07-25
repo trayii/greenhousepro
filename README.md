@@ -1,7 +1,7 @@
 # Greenhouse Reference Application
 This is a java maven project
 ## Overview
-
+This is a maven project
 Greenhouse is a Java web application built for the Spring community that has two primary goals:
 
 1. Serve as an open-source, public-facing reference and driver for Spring technology,
